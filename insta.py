@@ -1,3 +1,6 @@
+#Anak Monyet Ngapain Liat File Kontol
+
+
 try:
 	import os
 	import re
@@ -303,7 +306,7 @@ class instagram:
 
 	def BUG(self):
 		print(f"""
- {U}╟{C} Lisensi 1 Bulan / 250K
+ {U}╟{C} Lisensi 1 Bulan / 1 Rb
  {U}╟{C} Anda bisa Beli langsung ke Whatsapp
  {U}╟{C}  {H}[ 081932817303 ]{C}
 		""")

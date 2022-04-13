@@ -1,5 +1,5 @@
 #Anak Monyet Ngapain Liat File Kontol
-
+#tian
 
 try:
 	import os

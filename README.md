@@ -6,4 +6,4 @@ $ git clone https://github.com/tyan-ai/insta
 
 $ cd insta
 
-$ python tyan.py
+$ python insta.py

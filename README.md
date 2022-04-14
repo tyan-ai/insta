@@ -1,3 +1,5 @@
+# Cara Install Script 🗿
+ 
 $ pkg install git
 
 $ pkg install python
